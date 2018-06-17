@@ -1,0 +1,10 @@
+{
+    "experiment": {
+        "username": "postgres",
+        "password": "1234",
+        "database": "BackendPractice",
+        "host": "localhost:5432",
+        "dialect": "postgres",
+        "logging": false
+    }
+}
