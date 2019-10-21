@@ -41,7 +41,7 @@
     "graphql": "^0.13.2",
     "graphql-tools": "^2.18.0",
     "immutable": "^3.8.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "merge-graphql-schemas": "^1.5.1",
     "pg": "^7.4.1",
     "prop-types": "^15.6.0",
