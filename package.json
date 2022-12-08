@@ -35,7 +35,7 @@
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "css-loader": "^0.28.9",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "ganache-cli": "^6.1.0",
     "geth": "^0.4.0",
     "graphql": "^0.13.2",
